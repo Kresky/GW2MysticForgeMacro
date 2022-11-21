@@ -5,7 +5,7 @@ I just changed it from 5 keys to 2 keys, as the Mystic Forge has an auto-refill 
 An incredibly simple AutoHotKey script for use in Guild Wars 2 that saves the coordinates of your cursor 2 times (One for the "Refill" button, and one for the "Forge" button) and then automatically presses these 2 buttons in a loop.
 
 ## How to use it
-The script needs to know the location of the 5 buttons it has to press. (The four materials, and the "Forge" button) 
+The script needs to know the location of the refill and forge buttons that it has to press.
 All the user has to do is hover over the needed locations and press the associated buttons (these can be changed)
 **The steps are as follows:**
 1. **Ctrl + Q** - Saves the location of the refill button
